@@ -1,5 +1,6 @@
-### Hi there 👋
-
+![abbas-borji's Stats](https://github-readme-stats.vercel.app/api?username=abbas-borji&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![abbas-borji's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abbas-borji&theme=dark&hide_border=false)
+![abbas-borji's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abbas-borji&theme=dark&show_icons=true&hide_border=false&layout=compact)
 <!--
 **Abbas-Borji/Abbas-Borji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

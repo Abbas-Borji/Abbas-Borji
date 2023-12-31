@@ -1,5 +1,5 @@
 
-As a co-founder of [Zaker](https://zaker.io/), an edtech platform serving university students in Lebanon, I have been contributing technically as a Cloud DevOps Engineer, focusing on AWS architecture. My role involves utilizing technologies such as Terraform, Docker, Nginx, S3, RDS, EC2, Route53, SES, WorkMail, CloudWatch, and Bash, along with implementing Continuous Integration and Continuous Delivery (CI/CD) pipelines.
+As a Co-Founder of [Zaker](https://zaker.io/), an edtech platform serving university students in Lebanon, I have been contributing technically as a Cloud DevOps Engineer, focusing on AWS architecture. My role involves utilizing technologies such as Terraform, Docker, Nginx, S3, RDS, EC2, Route53, SES, WorkMail, CloudWatch, and Bash, along with implementing Continuous Integration and Continuous Delivery (CI/CD) pipelines.
 
 Additionally, I'm currently working on my senior project utilizing Next.js, React, TailwindCSS, NextAuth, Prisma, and MySQL. 
 Developing a performance management system with the potential to evolve into a SaaS product.
